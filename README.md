@@ -189,3 +189,8 @@ Just follow the instructions by clicking on a bot platform's entry.
 
 ## MVG API
 The documentation of the MVG API can be found [here](https://github.com/yss14/MVGAPI#readme).
+
+## Contributors
+* [Yannick Stachelscheid (yss14)](https://github.com/yss14)
+* [Martin Wepner (martinwepner)](https://github.com/martinwepner)
+* [Johannes Jung (johannesjung)](https://github.com/johannesjung)
